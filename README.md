@@ -13,9 +13,7 @@
 <a href="https://twitter.com/epinczinger">
   <img align="left" alt="Esteban Pinczinger | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://sourcerer.io/epinczinger">
-  <img alt="Esteban | Sourcerer" width="22px" align="left" src="https://sourcerer.io/icons/logo-sharing.svg" >
-</a>
+
 
 </div>
 
