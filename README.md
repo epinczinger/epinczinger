@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Esteban's github stats](https://github-readme-stats.vercel.app/api?username=epinczinger&show_icons=true&line_height=21&show_icons=true&theme=vue)](https://github.com/epinczinger/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epinczinger&show_icons=true&layout=compact&theme=vue)](https://github.com/epinczinger/github-readme-stats)
+[![Esteban's github stats](https://github-readme-stats.vercel.app/api?username=epinczinger&show_icons=true&line_height=21&show_icons=true&theme=dark)](https://github.com/epinczinger/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epinczinger&show_icons=true&layout=compact&theme=dark)](https://github.com/epinczinger/github-readme-stats)
 
 <div align="center">
 <a href="https://github.com/epinczinger">
